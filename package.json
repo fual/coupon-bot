@@ -1,0 +1,26 @@
+{
+  "name": "coupon-bot",
+  "version": "1.0.0",
+  "description": "bot makes coupons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fual/coupon-bot.git"
+  },
+  "keywords": [
+    "coupon",
+    "telegram"
+  ],
+  "author": "akhlebaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fual/coupon-bot/issues"
+  },
+  "homepage": "https://github.com/fual/coupon-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.21.1"
+  }
+}
